@@ -3,7 +3,10 @@ app = Flask(__name__)
 
 posts = [
     {
-        
+        'author':'Collins Nyakoe',
+        'title':'Blog Post 1',
+        'content':'First Post Content',
+        'date_posted':'April 27 2022'
     }
 ]
 
